@@ -5,4 +5,6 @@ Full_Version contains the full project. It compares a CNN to a CNN+GRU and CNN+L
 
 CNN_over_time and CNNLSTM_over_time are variations that show the performance of the respective neural networks over time.
 
+The other files are supplementary code to help the main files run.
+
 EEG data for this code can be found at the BCI Competition link here: https://www.bbci.de/competition/iv/
